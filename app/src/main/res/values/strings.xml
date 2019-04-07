@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Laboratorio</string>
+    <string name="app_name">My First Sender</string>
+    <string name="user">Recipient Email</string>
+    <string name="pass">Send Email</string>
+    <string name="subject">Subject</string>
+    <string name="send">Enter</string>
 </resources>
